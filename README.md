@@ -1,3 +1,3 @@
 # START-CODEX-2341007055
-Nmae : Saipriya Gauda
+Name : Saipriya Gauda
 Reg_no : 2341007055
